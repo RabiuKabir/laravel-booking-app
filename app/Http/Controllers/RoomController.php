@@ -64,7 +64,7 @@ class RoomController extends Controller
 
         $room = Room::find($id);
         $room->update($request->all());
-        $request->session()->flash('msg', 'Room has been updated');
+        $request->session()->flash('msg', 'Room has been updated successfully');
         return redirect('/rooms');
     }
 
