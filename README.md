@@ -33,7 +33,7 @@ If you come across any issues please [report them here](https://github.com/javed
 
 ## Contributing
  
- Lets build it together I will be glad if you consider contribute to the Laravel Booking project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to, Javed at mjavedahmed@live.com. Thank you.
+Lets build it together I will be glad if you consider contribute to the Laravel Booking project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to, Javed at mjavedahmed@live.com. Thank you.
  
  
 
